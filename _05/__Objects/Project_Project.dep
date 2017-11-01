@@ -1,0 +1,22 @@
+Dependencies for Project 'Project', Target 'Project': (DO NOT MODIFY !)
+F (.\_01_APP\main.c)(0x56CED69D)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I.\_01_APP -I.\_02_System -I.\_03_Drive\_01_Interior -I.\_03_Drive\_02_External -I.\_00_Important\Inc -I.\_00_Important\Lib -D__UVISION_VERSION="515" -DTM4C123GH6PZ-o .\__objects\main.o --omf_browse .\__objects\main.crf --depend .\__objects\main.d)
+I (_01_APP\main.h)(0x56CECA35)
+F (.\_02_System\My_Delay.c)(0x56CED670)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I.\_01_APP -I.\_02_System -I.\_03_Drive\_01_Interior -I.\_03_Drive\_02_External -I.\_00_Important\Inc -I.\_00_Important\Lib -D__UVISION_VERSION="515" -DTM4C123GH6PZ-o .\__objects\my_delay.o --omf_browse .\__objects\my_delay.crf --depend .\__objects\my_delay.d)
+I (_02_System\My_Delay.h)(0x56CED5FB)
+F (.\_03_Drive\_01_Interior\My_GPIO.c)(0x56CEF109)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I.\_01_APP -I.\_02_System -I.\_03_Drive\_01_Interior -I.\_03_Drive\_02_External -I.\_00_Important\Inc -I.\_00_Important\Lib -D__UVISION_VERSION="515" -DTM4C123GH6PZ-o .\__objects\my_gpio.o --omf_browse .\__objects\my_gpio.crf --depend .\__objects\my_gpio.d)
+I (_03_Drive\_01_Interior\My_GPIO.h)(0x56CED98D)
+F (.\_03_Drive\_01_Interior\My_Timer.c)(0x56CED5D4)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I.\_01_APP -I.\_02_System -I.\_03_Drive\_01_Interior -I.\_03_Drive\_02_External -I.\_00_Important\Inc -I.\_00_Important\Lib -D__UVISION_VERSION="515" -DTM4C123GH6PZ-o .\__objects\my_timer.o --omf_browse .\__objects\my_timer.crf --depend .\__objects\my_timer.d)
+I (_03_Drive\_01_Interior\My_Timer.h)(0x56CED5D4)
+F (.\_00_Important\Start File\startup_TM4C123.s)(0x534638CC)(--cpu Cortex-M4.fp -g --apcs=interwork --pd "__UVISION_VERSION SETA 515" --pd "TM4C123GH6PZ SETA 1"--list .\__listings\startup_tm4c123.lst --xref -o .\__objects\startup_tm4c123.o --depend .\__objects\startup_tm4c123.d)
+F (.\_00_Important\Start File\system_TM4C123.c)(0x56CED25E)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I.\_01_APP -I.\_02_System -I.\_03_Drive\_01_Interior -I.\_03_Drive\_02_External -I.\_00_Important\Inc -I.\_00_Important\Lib -D__UVISION_VERSION="515" -DTM4C123GH6PZ-o .\__objects\system_tm4c123.o --omf_browse .\__objects\system_tm4c123.crf --depend .\__objects\system_tm4c123.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (_00_Important\Start File\TM4C123.h)(0x5346377C)
+I (_00_Important\Start File\TM4C123GH6PZ.h)(0x550F8DCC)
+I (_00_Important\Start File\core_cm4.h)(0x5625B70C)
+I (_00_Important\Start File\core_cmInstr.h)(0x5625A350)
+I (_00_Important\Start File\cmsis_armcc.h)(0x5625A350)
+I (_00_Important\Start File\core_cmFunc.h)(0x5625A350)
+I (_00_Important\Start File\core_cmSimd.h)(0x5625A350)
+I (_00_Important\Start File\system_TM4C123.h)(0x5346377C)
+F (.\_04_Doc\Introduce.txt)(0x56CECCE9)()
+F (.\_04_Doc\Temporary.txt)(0x56CECCA5)()

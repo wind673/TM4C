@@ -1,0 +1,15 @@
+.\__objects\uartstdio.o: _00_Library\utils\uartstdio.c
+.\__objects\uartstdio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\__objects\uartstdio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\__objects\uartstdio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\__objects\uartstdio.o: .\_00_Library\inc/hw_ints.h
+.\__objects\uartstdio.o: .\_00_Library\inc/hw_memmap.h
+.\__objects\uartstdio.o: .\_00_Library\inc/hw_types.h
+.\__objects\uartstdio.o: .\_00_Library\inc/hw_uart.h
+.\__objects\uartstdio.o: .\_00_Library\driverlib/debug.h
+.\__objects\uartstdio.o: .\_00_Library\driverlib/interrupt.h
+.\__objects\uartstdio.o: .\_00_Library\driverlib/rom.h
+.\__objects\uartstdio.o: .\_00_Library\driverlib/rom_map.h
+.\__objects\uartstdio.o: .\_00_Library\driverlib/sysctl.h
+.\__objects\uartstdio.o: .\_00_Library\driverlib/uart.h
+.\__objects\uartstdio.o: .\_00_Library\utils/uartstdio.h

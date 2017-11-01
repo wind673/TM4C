@@ -1,0 +1,12 @@
+--cpu Cortex-M4.fp
+".\__objects\main.o"
+".\__objects\my_delay.o"
+".\__objects\my_system.o"
+".\__objects\my_gpio.o"
+".\__objects\my_interrupt.o"
+".\_00_Library\rvmdk\driverlib.lib"
+".\__objects\startup_rvmdk.o"
+--strict --scatter ".\__Objects\Project.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\__Listings\Project.map" -o .\__Objects\Project.axf

@@ -1,0 +1,17 @@
+.\__objects\my_lcd.o: _03_Drive\_02_External\My_LCD.c
+.\__objects\my_lcd.o: _03_Drive\_02_External\My_LCD.h
+.\__objects\my_lcd.o: .\_02_System\My_Labrary.h
+.\__objects\my_lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\__objects\my_lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\__objects\my_lcd.o: .\_00_Library\inc/hw_types.h
+.\__objects\my_lcd.o: .\_00_Library\inc/hw_memmap.h
+.\__objects\my_lcd.o: .\_00_Library\inc/hw_gpio.h
+.\__objects\my_lcd.o: .\_00_Library\inc/tm4c123gh6pz.h
+.\__objects\my_lcd.o: .\_00_Library\driverlib/gpio.h
+.\__objects\my_lcd.o: .\_00_Library\driverlib/sysctl.h
+.\__objects\my_lcd.o: .\_00_Library\driverlib/timer.h
+.\__objects\my_lcd.o: .\_00_Library\driverlib/interrupt.h
+.\__objects\my_lcd.o: .\_00_Library\driverlib/systick.h
+.\__objects\my_lcd.o: _03_Drive\_02_External\My_LCD12864.h
+.\__objects\my_lcd.o: .\_02_System\My_Delay.h
+.\__objects\my_lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
